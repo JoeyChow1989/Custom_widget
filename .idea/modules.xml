@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Custom_widget.iml" filepath="$PROJECT_DIR$/Custom_widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogBerzDemo(6)/blogBerzDemo(6).iml" filepath="$PROJECT_DIR$/blogBerzDemo(6)/blogBerzDemo(6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogMovePath(6)/blogMovePath(6).iml" filepath="$PROJECT_DIR$/blogMovePath(6)/blogMovePath(6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogMovePathByQuad(6)/blogMovePathByQuad(6).iml" filepath="$PROJECT_DIR$/blogMovePathByQuad(6)/blogMovePathByQuad(6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogMoveWave(6)/blogMoveWave(6).iml" filepath="$PROJECT_DIR$/blogMoveWave(6)/blogMoveWave(6).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="29562317550471" >
+
+    <task
+        name="javac"
+        duration="22" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="I:\MyStudioWork\Custom_widget\blogMovePath(6)\build\outputs\apk\blogMovePath(6)-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="29562317550471" >
+        <artifact
+            location="I:\MyStudioWork\Custom_widget\blogMovePath(6)\build\outputs\apk\blogMovePath(6)-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

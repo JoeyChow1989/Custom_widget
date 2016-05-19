@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="29471594984492" >
+
+    <task
+        name="javac"
+        duration="31" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="I:\MyStudioWork\Custom_widget\blogBerzDemo(6)\build\outputs\apk\blogBerzDemo(6)-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="29471594984492" >
+        <artifact
+            location="I:\MyStudioWork\Custom_widget\blogBerzDemo(6)\build\outputs\apk\blogBerzDemo(6)-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
